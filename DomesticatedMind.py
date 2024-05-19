@@ -42,4 +42,4 @@ class DomesticatedMind3D(CustomObject):
 
 
 if __name__ == "__main__":
-    domesticated_mid = DomesticatedMind3D(creation=True)
+    domesticated_mind = DomesticatedMind3D(creation=True)
